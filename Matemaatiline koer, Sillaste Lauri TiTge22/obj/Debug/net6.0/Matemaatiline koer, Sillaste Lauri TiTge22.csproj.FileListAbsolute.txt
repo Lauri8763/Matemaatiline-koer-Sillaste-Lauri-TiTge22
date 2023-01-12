@@ -1,0 +1,15 @@
+C:\Users\User\source\repos\Matemaatiline koer, Sillaste Lauri TiTge22\Matemaatiline koer, Sillaste Lauri TiTge22\obj\Debug\net6.0\Matemaatiline koer, Sillaste Lauri TiTge22.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\Matemaatiline koer, Sillaste Lauri TiTge22\Matemaatiline koer, Sillaste Lauri TiTge22\obj\Debug\net6.0\Matemaatiline koer, Sillaste Lauri TiTge22.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\Matemaatiline koer, Sillaste Lauri TiTge22\Matemaatiline koer, Sillaste Lauri TiTge22\obj\Debug\net6.0\Matemaatiline koer, Sillaste Lauri TiTge22.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\Matemaatiline koer, Sillaste Lauri TiTge22\Matemaatiline koer, Sillaste Lauri TiTge22\obj\Debug\net6.0\Matemaatiline koer, Sillaste Lauri TiTge22.AssemblyInfo.cs
+C:\Users\User\source\repos\Matemaatiline koer, Sillaste Lauri TiTge22\Matemaatiline koer, Sillaste Lauri TiTge22\obj\Debug\net6.0\Matemaatiline koer, Sillaste Lauri TiTge22.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Matemaatiline koer, Sillaste Lauri TiTge22\Matemaatiline koer, Sillaste Lauri TiTge22\bin\Debug\net6.0\Matemaatiline koer, Sillaste Lauri TiTge22.exe
+C:\Users\User\source\repos\Matemaatiline koer, Sillaste Lauri TiTge22\Matemaatiline koer, Sillaste Lauri TiTge22\bin\Debug\net6.0\Matemaatiline koer, Sillaste Lauri TiTge22.deps.json
+C:\Users\User\source\repos\Matemaatiline koer, Sillaste Lauri TiTge22\Matemaatiline koer, Sillaste Lauri TiTge22\bin\Debug\net6.0\Matemaatiline koer, Sillaste Lauri TiTge22.runtimeconfig.json
+C:\Users\User\source\repos\Matemaatiline koer, Sillaste Lauri TiTge22\Matemaatiline koer, Sillaste Lauri TiTge22\bin\Debug\net6.0\Matemaatiline koer, Sillaste Lauri TiTge22.dll
+C:\Users\User\source\repos\Matemaatiline koer, Sillaste Lauri TiTge22\Matemaatiline koer, Sillaste Lauri TiTge22\bin\Debug\net6.0\Matemaatiline koer, Sillaste Lauri TiTge22.pdb
+C:\Users\User\source\repos\Matemaatiline koer, Sillaste Lauri TiTge22\Matemaatiline koer, Sillaste Lauri TiTge22\obj\Debug\net6.0\Matemaatiline koer, Sillaste Lauri TiTge22.dll
+C:\Users\User\source\repos\Matemaatiline koer, Sillaste Lauri TiTge22\Matemaatiline koer, Sillaste Lauri TiTge22\obj\Debug\net6.0\refint\Matemaatiline koer, Sillaste Lauri TiTge22.dll
+C:\Users\User\source\repos\Matemaatiline koer, Sillaste Lauri TiTge22\Matemaatiline koer, Sillaste Lauri TiTge22\obj\Debug\net6.0\Matemaatiline koer, Sillaste Lauri TiTge22.pdb
+C:\Users\User\source\repos\Matemaatiline koer, Sillaste Lauri TiTge22\Matemaatiline koer, Sillaste Lauri TiTge22\obj\Debug\net6.0\Matemaatiline koer, Sillaste Lauri TiTge22.genruntimeconfig.cache
+C:\Users\User\source\repos\Matemaatiline koer, Sillaste Lauri TiTge22\Matemaatiline koer, Sillaste Lauri TiTge22\obj\Debug\net6.0\ref\Matemaatiline koer, Sillaste Lauri TiTge22.dll
